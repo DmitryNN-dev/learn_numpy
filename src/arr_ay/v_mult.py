@@ -8,3 +8,5 @@ print()
 
 # --//--, но add
 print(np.add.outer(x, x))
+
+print()
